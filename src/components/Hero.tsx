@@ -144,7 +144,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenBooking }) => {
                 {/* 3D Emblem Image */}
                 <div className="relative w-56 h-56 sm:w-64 sm:h-64 rounded-2xl overflow-hidden p-1 bg-gradient-to-b from-amber-500/40 via-neutral-900 to-amber-900/40 shadow-inner mb-6">
                   <img
-                    src="/logo.png"
+                    src="./logo.png"
                     alt="JQ Cuts Master Barber Official Emblem"
                     className="w-full h-full object-contain rounded-xl drop-shadow-2xl"
                   />

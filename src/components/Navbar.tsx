@@ -31,7 +31,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenBooking }) => {
         <a href="#" className="flex items-center gap-3 group">
           <div className="relative w-12 h-12 rounded-full p-[2px] bg-gradient-to-tr from-amber-500 via-yellow-200 to-amber-700 shadow-md group-hover:scale-105 transition-transform">
             <img
-              src="/logo.png"
+              src="./logo.png"
               alt="JQ Cuts Master Barber Logo"
               className="w-full h-full object-cover rounded-full bg-black"
             />

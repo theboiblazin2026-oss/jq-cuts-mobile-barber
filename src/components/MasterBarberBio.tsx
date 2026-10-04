@@ -22,7 +22,7 @@ export const MasterBarberBio: React.FC<MasterBarberBioProps> = ({ onOpenBooking 
             <div className="lg:col-span-5 flex flex-col items-center text-center">
               <div className="relative w-60 h-60 rounded-3xl overflow-hidden p-2 bg-gradient-to-tr from-amber-500 via-yellow-200 to-amber-700 shadow-2xl mb-6">
                 <img
-                  src="/logo.png"
+                  src="./logo.png"
                   alt="Jaquan - JQ Cuts Master Barber"
                   className="w-full h-full object-cover rounded-2xl bg-black"
                 />

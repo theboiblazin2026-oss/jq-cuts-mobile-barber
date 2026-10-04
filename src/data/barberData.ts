@@ -230,42 +230,42 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     id: 'gal-1',
     title: 'Mid-Skin Drop Fade & C-Cup Lineup',
     category: 'fades',
-    imageUrl: '/portfolio/cut1_drop_fade.jpg',
+    imageUrl: './portfolio/cut1_drop_fade.jpg',
     caption: 'Clean skin drop fade with crisp C-cup temple arch, smooth gradient transition, and defined dark curls.'
   },
   {
     id: 'gal-2',
     title: 'Sculpted Full Beard & Razor Cheek Line',
     category: 'beards',
-    imageUrl: '/portfolio/cut2_beard_sculpt.jpg',
+    imageUrl: './portfolio/cut2_beard_sculpt.jpg',
     caption: 'Full symmetrical beard contouring with surgical straight razor cheek and jawline detailing.'
   },
   {
     id: 'gal-3',
     title: '360 Deep Waves & Low Taper Fade',
     category: 'tapers',
-    imageUrl: '/portfolio/cut3_360_waves.jpg',
+    imageUrl: './portfolio/cut3_360_waves.jpg',
     caption: 'Deep 360 wave definition paired with razor-sharp forehead box lineup and clean low temple taper.'
   },
   {
     id: 'gal-4',
     title: 'Burst Fade & Geometric Razor Part',
     category: 'designs',
-    imageUrl: '/portfolio/cut4_burst_fade.jpg',
+    imageUrl: './portfolio/cut4_burst_fade.jpg',
     caption: 'High-contrast burst fade curve featuring custom geometric razor slash art and sponge curl texture.'
   },
   {
     id: 'gal-5',
     title: 'Master Clipper Detailing & Shape-Up',
     category: 'fades',
-    imageUrl: '/portfolio/cut5_clippers_lineup.jpg',
+    imageUrl: './portfolio/cut5_clippers_lineup.jpg',
     caption: 'Master barber action shot delivering a laser-precise hairline edge-up using professional gold clippers.'
   },
   {
     id: 'gal-6',
     title: 'Afro Taper Fade & Beard Blend',
     category: 'beards',
-    imageUrl: '/portfolio/cut6_low_taper.jpg',
+    imageUrl: './portfolio/cut6_low_taper.jpg',
     caption: 'Clean low temple and neck taper fade seamlessly connecting into a well-conditioned, full sculpted beard.'
   }
 ];

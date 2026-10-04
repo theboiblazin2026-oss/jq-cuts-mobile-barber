@@ -193,7 +193,7 @@ export const BookingModal: React.FC<BookingModalProps> = ({
         <div className="bg-gradient-to-r from-neutral-900 via-[#181818] to-neutral-900 px-6 py-5 border-b border-neutral-800 flex items-center justify-between">
           <div className="flex items-center gap-3">
             <div className="w-10 h-10 rounded-full p-[1.5px] bg-gradient-to-tr from-amber-500 via-yellow-200 to-amber-700">
-              <img src="/logo.png" alt="JQ Cuts Logo" className="w-full h-full object-cover rounded-full bg-black" />
+              <img src="./logo.png" alt="JQ Cuts Logo" className="w-full h-full object-cover rounded-full bg-black" />
             </div>
             <div>
               <h3 className="font-heading font-bold text-white text-base sm:text-lg flex items-center gap-2">
